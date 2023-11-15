@@ -50,3 +50,17 @@ My suggestion:
 
 Finally intregrate those three functionality in the main.py or app.py file whatever you want. I think my proposal is very efficient, scallable and It will reduce the manitainance time, cost and overall increase the productibity. Specially It will be very useful for beginners. 
 
+
+
+** Some photos of this task below **
+** In my system this project is perfectly what I expect. ** 
+
+
+![home page](project_test_images/home.jpg)
+![home page](project_test_images/without_authorization.jpg)
+![home page](project_test_images/after_authorization.jpg)
+![home page](project_test_images/play_audio.jpg)
+![home page](project_test_images/sqlite3.jpg)
+![home page](project_test_images/uploaded_files.jpg)
+![home page](project_test_images/audios_db.jpg)
+![home page](project_test_images/unittest.jpg)
