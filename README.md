@@ -5,6 +5,7 @@ My Apology: I was outside and got this email letter. I am sorry that I submit la
 **login credentials (since it is not production application so I am not worry about login credentials. That's why I provide credentials on GitHub)**
 
 username = janna
+*
 password = janna
 
 admin_login_link: http://127.0.0.1:8000/admin/
