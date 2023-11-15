@@ -1,8 +1,8 @@
-# ki-elements-task
+**ki-elements-task**
 
 My Apology: I was outside and got this email letter. I am sorry that I submit lately. I took this challenge and done my task. I used django because in my first interview I completed one project with flask. Recently I learned Django and decided to done this task with Django. That's why i needed to read the documentation a lot. But ultimately I have done this project. By this task I tried to proof my strong willingness to learn new technology and my ability to take challenges and solve those challenges. And I wish I will get opportunity to learn more from your experienced team. I can assure you my utmost dedication 
 
-# login credentials (since it is not production application so I am not worry about login credentials. That's why I provide credentials on GitHub)
+**login credentials (since it is not production application so I am not worry about login credentials. That's why I provide credentials on GitHub)**
 
 username = janna
 password = janna
