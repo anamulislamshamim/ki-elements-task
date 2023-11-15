@@ -29,6 +29,8 @@ Although I created some html template. so you don't need to worry about those th
 ## UNIT TEST ##
 I was not good enough in Django Unittest. But I want to learn more. Yet I tried to test my models. Because It is very important. If something happen wrong with database that means It will fully crushed our application. That's why I tried to test the models.
 
+test_command: python .\manage.py test api
+
 
 ## code review ##
 
@@ -36,6 +38,8 @@ summary: To write a clean and scallable code I would take care couple of things.
 1. Database management
 2. Hashing
 3. endpoint operation 
+
+Note: Also I got some indentation error inside some function 
 
 My suggestion: 
 1. Move the database related task to a different file like database.py. You can implement a class like DB_Management and create necessarly methods. Then just import DB_Management 
