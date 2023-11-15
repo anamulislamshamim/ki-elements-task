@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <form method="post" action=".">
+    {% csrf_token %}
+    {% if audio %}
+    <h1>Search result for title "{{ title }}"</h1>
+    <audio controls>
+      <source src="{{ audio }}" type="audio/mpeg">
+    </audio><br>
+    {% endif %}
+    {% comment %} <label for="category">Audio Category</label><br>
+    <input id='cagegory' placeholder=" audio category" type="text" name='category'><br><br> {% endcomment %}
+    <label for="title">Title</label><br>
+    <input id="title" type="text" name="title" placeholder="audio title"><br><br>
+    <button type="submit">Search</button>
+  </form>
+{% endblock %}
