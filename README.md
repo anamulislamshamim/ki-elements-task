@@ -9,6 +9,13 @@ password = janna
 
 admin_login_link: http://127.0.0.1:8000/admin/
 
+Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command:
+    1. python manage.py createsuperuser
+    2. input your username e.g. janna
+    3. inpur your email e.g. janna@gmail.com
+    4. input your password e.g. janna
+    5. re-type password: e.g. janna
+
 Without login you will able to see the index page. There you will find how many audios are avilable there. But If you want to listen the audio or want to upload new audio, you must have authorization. 
 
 
