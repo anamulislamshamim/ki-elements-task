@@ -9,7 +9,7 @@ password = janna
 
 admin_login_link: http://127.0.0.1:8000/admin/
 
-Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command:
+Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command: <br>
     1. python manage.py createsuperuser <br>
     2. input your username e.g. janna <br>
     3. inpur your email e.g. janna@gmail.com <br>
