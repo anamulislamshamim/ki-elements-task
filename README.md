@@ -9,11 +9,11 @@ admin_login_link: http://127.0.0.1:8000/admin/
 Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command: 
 
     <br>
-    1. python manage.py createsuperuser <br>
-    2. input your username e.g. janna <br>
-    3. inpur your email e.g. janna@gmail.com <br>
-    4. input your password e.g. janna <br>
-    5. re-type password: e.g. janna <br>
+    python manage.py createsuperuser <br>
+    input your username e.g. janna <br>
+    inpur your email e.g. janna@gmail.com <br>
+    input your password e.g. janna <br>
+    re-type password: e.g. janna <br>
 
 Without login you will able to see the index page. There you will find how many audios are avilable there. But If you want to listen the audio or want to upload new audio, you must have authorization. 
 
@@ -22,10 +22,10 @@ Also I used sqlite3 database. It's by default installed by django. So I decided 
 
 
 Although I created some html template. so you don't need to worry about those thing. I did this to test my api. you just need a single command python manage.py runserver. Then just visit http://127.0.0.1:8000 
-<br>
+
 1. If you want to upload audio then visit http://127.0.0.1:800/upload/
     Note: For upload audio you must have unique title. Because I used title as a search query. 
-<br>
+
 2. If you want to search audio then visit http://170.0.0.1:800/search
     a. If  your title is wrong it will redirect you to upload page. 
     <br>
