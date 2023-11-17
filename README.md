@@ -36,7 +36,7 @@ Although I created some html template. so you don't need to worry about those th
 ## UNIT TEST ##
 I was not good enough in Django Unittest. But I want to learn more. Yet I tried to test my models. Because It is very important. If something happen wrong with database that means It will fully crushed our application. That's why I tried to test the models.
 
-test_command: python .\manage.py test api
+test_command: ```python .\manage.py test api```
 
 
 ## code review ##
