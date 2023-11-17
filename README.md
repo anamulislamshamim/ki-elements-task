@@ -2,14 +2,13 @@
 
 My Apology: I was outside and got this email letter. I am sorry that I submit lately. I took this challenge and done my task. I used django because in my first interview I completed one project with flask. Recently I learned Django and decided to done this task with Django. That's why i needed to read the documentation a lot. But ultimately I have done this project. By this task I tried to proof my strong willingness to learn new technology and my ability to take challenges and solve those challenges. And I wish I will get opportunity to learn more from your experienced team. I can assure you my utmost dedication 
 
-**login credentials (since it is not production application so I am not worry about login credentials. That's why I provide credentials on GitHub)**
-
-username = janna <br>
-password = janna
 
 admin_login_link: http://127.0.0.1:8000/admin/
 
-Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command: <br>
+
+Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command: 
+
+    <br>
     1. python manage.py createsuperuser <br>
     2. input your username e.g. janna <br>
     3. inpur your email e.g. janna@gmail.com <br>
@@ -23,13 +22,13 @@ Also I used sqlite3 database. It's by default installed by django. So I decided 
 
 
 Although I created some html template. so you don't need to worry about those thing. I did this to test my api. you just need a single command python manage.py runserver. Then just visit http://127.0.0.1:8000 
-
+<br>
 1. If you want to upload audio then visit http://127.0.0.1:800/upload/
     Note: For upload audio you must have unique title. Because I used title as a search query. 
-
+<br>
 2. If you want to search audio then visit http://170.0.0.1:800/search
     a. If  your title is wrong it will redirect you to upload page. 
-
+    <br>
     b. If your title is right then It will show you the audio. you will able to run this audio. It's fun! isn't it? 
 
 
@@ -59,8 +58,7 @@ Finally intregrate those three functionality in the main.py or app.py file whate
 
 
 
-** Some photos of this task below **
-** In my system this project is perfectly worked what I expected. ** 
+** Some photos of this task below. In my system this project is perfectly worked what I expected. ** 
 
 
 ![home page](project_test_images/home.jpg)
