@@ -6,7 +6,8 @@ My Apology: I was outside and got this email letter. I am sorry that I submit la
 admin_login_link: http://127.0.0.1:8000/admin/
 
 
-Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command: 
+Note: You will need to create your own login credentials when you clone the repository in your machine. To create  your own login credentials just follow the followings command:
+<br> 
     python manage.py createsuperuser
     input your username e.g. janna
     inpur your email e.g. janna@gmail.com
