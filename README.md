@@ -27,7 +27,7 @@ Although I created some html template. so you don't need to worry about those th
 1. If you want to upload audio then visit http://127.0.0.1:800/upload/
     <br>Note: For upload audio you must have unique title. Because I used title as a search query. 
 
-2. If you want to search audio then visit http://170.0.0.1:800/search
+2. If you want to search audio then visit http://170.0.0.1:800/search <br>
     a. If  your title is wrong it will redirect you to upload page. 
     <br>
     b. If your title is right then It will show you the audio. you will able to run this audio. It's fun! isn't it? 
