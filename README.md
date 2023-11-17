@@ -25,7 +25,7 @@ Also I used sqlite3 database. It's by default installed by django. So I decided 
 Although I created some html template. so you don't need to worry about those thing. I did this to test my api. you just need a single command python manage.py runserver. Then just visit http://127.0.0.1:8000 
 
 1. If you want to upload audio then visit http://127.0.0.1:800/upload/
-    Note: For upload audio you must have unique title. Because I used title as a search query. 
+    <br>Note: For upload audio you must have unique title. Because I used title as a search query. 
 
 2. If you want to search audio then visit http://170.0.0.1:800/search
     a. If  your title is wrong it will redirect you to upload page. 
