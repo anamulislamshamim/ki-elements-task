@@ -59,7 +59,7 @@ Finally intregrate those three functionality in the main.py or app.py file whate
 
 
 
-** Some photos of this task below. In my system this project is perfectly worked what I expected. ** 
+## Some photos of this task below. In my system this project is perfectly worked what I expected. ##
 
 
 ![home page](project_test_images/home.jpg)
